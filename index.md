@@ -4,7 +4,7 @@ Apply to Take it Easy:
 
 Have a ticket already? Let us know:
 <br>
-<a href="https://tally.so/r/wQlzp3"><img src="application.png" alt="application" width="235" height="113"/></a>
+<a href="https://tally.so/r/wQlzp3"><img src="ticket.jpg" alt="application" width="235" height="113"/></a>
 
 Stay informed on our Notion page:
 <br>
