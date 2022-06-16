@@ -6,3 +6,6 @@ Get involved through our Discord:
 
 Pay your camp dues through PayPal:
 <a href="https://www.paypal.com/donate/?hosted_button_id=JF22WPX9G9X8U"><img src="PaypalLogo.jpg" alt="paypal" width="200" height="200"/></a>
+
+First time burning? Read our guide:
+<a href="https://road-stoplight-c79.notion.site/Year-1-A-burning-man-guide-ea6addd55ac04127b16b60c8e95a7dd7"><img src="FirstBurn.jpg" alt="FirstBurn" width="200" height="200"/></a>
