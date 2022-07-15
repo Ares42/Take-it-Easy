@@ -1,14 +1,6 @@
 <table>
   <tr>
     <td>
-      <img src="application.png" alt="application" height="100"/>
-    </td>
-    <td>
-      <a href="https://road-stoplight-c79.notion.site/Take-It-Easy-Application-a758746eaef7474598478bb8d971584c">Apply to Take it Easy</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <img src="ticket.jpg" alt="application" height="100"/>
     </td>
     <td>
