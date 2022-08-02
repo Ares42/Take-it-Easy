@@ -1,14 +1,6 @@
 <table>
   <tr>
     <td>
-      <img src="ticket.jpg" alt="application" height="100"/>
-    </td>
-    <td>
-      <a href="https://tally.so/r/wQlzp3">Have a ticket already? Let us know</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <img src="NotionLogo.png" alt="application" height="100"/>
     </td>
     <td>
